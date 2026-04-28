@@ -3,6 +3,13 @@
 <p align="center">
 O <b>Projeto de acolhimento social com IoT</b> é uma solução tecnológica voltada à reintegração social de pessoas em situação de rua. Unindo infraestrutura de micro-acomodações (cápsulas) e um sistema de gestão inteligente baseado em IoT, o projeto condiciona a permanência e o acesso a benefícios à prestação de serviços comunitários e reabilitação.
 
+###  Feito por: 
+* Enzo Ferrari
+* Eloísa Ventura
+* Tainá Alves
+* Samilly Matos 
+* Vitor Andrade
+
 ###  Objetivos do Projeto
 * **Controle de Contrapartida:** Implementar um sistema de "créditos sociais" onde o trabalho comunitário libera o acesso às instalações.
 * **Dignidade e Privacidade:** Substituir albergues comuns por cápsulas individuais automatizadas.
